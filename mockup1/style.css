@@ -1,0 +1,22 @@
+.container{
+    width: 700px;
+    background-color: #1de592;
+    padding: 100px;
+    margin: 150px auto;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head{
+    width: 20%;
+    
+}
+
+.btn-white{
+    width: 30%;
+    padding: 15px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+    font-weight: 600;
+}
